@@ -1,5 +1,10 @@
 # Nuxt Yandex Pay
 
+> [!WARNING]
+> WORK IN PROGRESS
+> The package is currently unstable and under develoment
+> Please do not use it in this time
+
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
